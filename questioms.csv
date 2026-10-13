@@ -1,0 +1,16 @@
+question,optionA,optionB,optionC,optionD,correct
+"1. 在 p5.js 中，設定畫布大小的指令是什麼？","A) resizeCanvas()","B) createCanvas()","C) setCanvas()","D) newCanvas()",1
+"2. 哪一個函式會在程式啟動時「只執行一次」？","A) draw()","B) start()","C) setup()","D) init()",2
+"3. 若要繪製一個圓形，應該使用哪一個指令？","A) circle()","B) rect()","C) line()","D) square()",0
+"4. 設定填滿顏色的指令是哪一個？","A) stroke()","B) color()","C) background()","D) fill()",3
+"5. 哪一個系統變數可以取得目前滑鼠的 X 軸座標？","A) mouseX","B) mouseY","C) posX","D) clickX",0
+"6. 哪一個函式負責在 p5.js 中持續重複繪製畫面？","A) update()","B) loop()","C) draw()","D) render()",2
+"7. 設定線條外框顏色的指令是哪一個？","A) stroke()","B) fill()","C) color()","D) line()",0
+"8. 若要清除畫布上的圖形並重新填滿背景，通常會呼叫什麼函式？","A) clear()","B) background()","C) reset()","D) wipe()",1
+"9. 哪一個系統變數可以用來取得視窗的總寬度？","A) screenWidth","B) windowWidth","C) docWidth","D) pageWidth",1
+"10. 想要在畫布上繪製一個矩形，應使用哪一個指令？","A) box()","B) rect()","C) rectangle()","D) quad()",1
+"11. 哪一個系統變數可以取得目前滑鼠的按鍵狀態或是否按下？","A) mouseIsPressed","B) mouseClick","C) isPressed","D) mousePress",0
+"12. 若要關閉圖形的外框線，應使用下列哪一個指令？","A) noFill()","B) noStroke()","C) borderOff()","D) strokeNone()",1
+"13. 哪一個函式可用來載入外部圖片檔案？","A) getImage()","B) loadImg()","C) loadImage()","D) fetchImage()",2
+"14. p5.js 是基於哪一種程式語言所延伸開發的？","A) Python","B) Java","C) C++","D) JavaScript",3
+"15. 若要產生一個介於 0 到 10 之間的隨機亂數（不含 10），應使用哪一個函式？","A) random(10)","B) rand(10)","C) math.random(10)","D) roll(10)",0
